@@ -1,0 +1,45 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+    font-size: 36px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .form-group {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  input[type=number] {
+    width: 80px;
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    font-size: 18px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin-top: 50px;
+    font-size: 36px;
+    color: #4caf50;
+  }
+  
